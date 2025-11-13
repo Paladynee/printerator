@@ -2,6 +2,8 @@
 name = "printerator"
 version = "0.1.0"
 edition = "2024"
+license = "EUPLv1.2"
+description = "simply print iterators without collecting them"
 
 [dependencies]
 parking_lot = { version = "0.12.5", default-features = false }
