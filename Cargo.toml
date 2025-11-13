@@ -2,7 +2,7 @@
 name = "printerator"
 version = "0.9.0"
 edition = "2024"
-license = "EUPLv1.2"
+license = "EUPL-1.2"
 description = "simply print iterators without collecting them"
 
 [dependencies]
