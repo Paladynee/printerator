@@ -1,9 +1,15 @@
 [package]
 name = "printerator"
-version = "1.0.0"
-edition = "2024"
-license = "EUPL-1.2"
+version = "1.0.1"
+authors = ["Voxell Paladynee <paladyneshadow@gmail.com>"]
 description = "simply print iterators without collecting them"
+license = "EUPL-1.2"
+repository = "https://github.com/Paladynee/printerator"
+readme = "README.md"
+keywords = ["utility", "text", "logging", "string", "log"]
+categories = ["development-tools"]
+edition = "2024"
+documentation = "https://docs.rs/printerator/latest/printerator/"
 
 [dependencies]
 parking_lot = { version = "0.12.5", default-features = false }
